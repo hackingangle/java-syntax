@@ -1,3 +1,3 @@
 ## java syntax.
 
-1. 内部类
+1. internal class.
